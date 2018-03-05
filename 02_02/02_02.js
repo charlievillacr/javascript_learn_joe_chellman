@@ -7,7 +7,7 @@
 -12
 Infinity
 -Infinity
-NaN
+NaN (not a number)
 
 Math;
 Math.round(12.92309820948209384);
