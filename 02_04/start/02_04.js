@@ -15,4 +15,7 @@ myOtherLocation = "Los Angeles";
     "Los Angeles"
 myLocation === myOtherLocation
     false
-​
+​myOtherLocation = "Graz";
+"Graz"
+myLocation === myOtherLocation
+true
